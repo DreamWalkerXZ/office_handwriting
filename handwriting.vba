@@ -18,17 +18,17 @@ Sub handwriting()
     Next i
     
     
-    font_config(0).InitializeWithValues "SJNMDJW", 18, -2, 20
-    font_config(1).InitializeWithValues "MEIYUJW", 16, 0, 25
-    font_config(2).InitializeWithValues "FZJingLeiS-R-GB", 14, 2, 15
-    font_config(3).InitializeWithValues "AR GbxingkaiGB Extrabold", 14, 2, 20
-    font_config(4).InitializeWithValues "HY JingBRJ", 17, -1, 15
-    font_config(5).InitializeWithValues "?????", 15, 0, 0
-    font_config(6).InitializeWithValues "BoLeZhuSunti", 15, 0, 15
-    font_config(7).InitializeWithValues "DFPHanziPenW3-GB", 15, 1.2, 8
+    font_config(0).InitializeWithValues "世界那么大", 18, -2, 20
+    font_config(1).InitializeWithValues "美玉体", 16, 0, 25
+    font_config(2).InitializeWithValues "方正静蕾简体", 14, 2, 15
+    font_config(3).InitializeWithValues "文鼎大钢笔行楷", 14, 2, 20
+    font_config(4).InitializeWithValues "汉仪井柏然体简", 17, -1, 15
+    font_config(5).InitializeWithValues "伯乐童年体", 15, 0, 0
+    font_config(6).InitializeWithValues "伯乐字库竹笋体", 15, 0, 15
+    font_config(7).InitializeWithValues "华康翩翩体W3P", 15, 1.2, 8
     font_config(8).InitializeWithValues "BoLeYaYati", 16, 0, 0
-    font_config(9).InitializeWithValues "HYPPTiJ", 15, 1.2, 0
-    font_config(10).InitializeWithValues "?????", 15, 0, 0
+    font_config(9).InitializeWithValues "汉仪PP体简", 15, 1.2, 0
+    font_config(10).InitializeWithValues "伯乐俏皮体", 15, 0, 0
     
     
     total_probability = 0
